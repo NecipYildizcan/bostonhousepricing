@@ -12,5 +12,14 @@
 '''
 conda create -p venv python==3.7 -y
 conda activate C:\Users\necip\Documents\endtoendMLProject\bostonhousepricing\venv
+
 '''
+
+
 pip install -r requirement.txt
+
+Git commands
+
+git add .
+git commit -m "MEssage HERE"
+git push origin main 
