@@ -23,3 +23,12 @@ Git commands
 git add .
 git commit -m "MEssage HERE"
 git push origin main 
+
+
+1. Create ML Model (Add in pickle where needed)
+2. create a flask app to deploy ML model to
+3. Test on local system
+4. Create Docker file
+5. AWS account 
+6. Upload docker container to AWS Container registery ECR
+7. Create a Service in AWS ECS (Create security group needed for task)
